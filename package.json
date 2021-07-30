@@ -1,5 +1,5 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "e-commerce-backend",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,11 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "*.git"
+    "url": "git+https://github.com/cartaya1/e-commerce-backend.git"
   },
-  "keywords": [],
   "author": "Luis Cartaya",
-  "license": "ISC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cartaya1/e-commerce-backend/issues"
+  },
+  "homepage": "https://github.com/cartaya1/e-commerce-backend#readme",
   "devDependencies": {
     "nodemon": "^2.0.3"
   },

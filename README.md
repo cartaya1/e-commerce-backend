@@ -30,7 +30,7 @@
 
 💻 A continuación se muestra el gif que muestra la funcionalidad de la aplicación:
   
-![DB Setup and Start](./gif/shortvideo.gif)
+![DB Setup and Start](./gif/ShortVideo.gif)
 
 ![GET All](./gif/GET_ALL.gif)
 

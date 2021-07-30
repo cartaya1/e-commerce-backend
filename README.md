@@ -1,12 +1,12 @@
 
-<h1 align="center">Object-Relational Mapping (ORM): E-Commerce Back End 👋</h1>
+<h1 align="center">Object-Relational Mapping (ORM): E-Commerce Back End.</h1>
   
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/cartaya1/e-commerce-backend" />
-    <img src="https://img.shields.io/github/languages/top/cartaya1/e-commerce-backend"  />
+    <img src="https://img.shields.io/github/languages/top/cartaya1/e-commerce-backend" />
     <img src="https://img.shields.io/github/issues/cartaya1/e-commerce-backend" />
     <img src="https://img.shields.io/github/last-commit/cartaya1/e-commerce-backend" >
-    <a href="https://github.com/cartaya1"><img src="https://img.shields.io/git hub/followers/cartaya1?style=social" target="_blank" /></a>
+    <a href="https://github.com/cartaya1"><img src="https://img.shields.io/github/followers/cartaya1?style=social" target="_blank" /></a>
     <a href="https://twitter.com/Cartayas_USA">
         <img alt="Twitter: Cartayas_USA" src="https://img.shields.io/twitter/follow/Cartayas_USA.svg?style=social" target="_blank" />
     </a>
@@ -20,13 +20,17 @@
     <img src="https://img.shields.io/badge/dotenv-green" />
 </p>
    
-## Description
+# Description
 
 🔍 A mysql database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.
+
+🔍  Una base de datos mysql y una aplicacion BACKEND para un sitio de comercio electrónico. Construido usando MySQL2, Express, Sequelize y dotenv.
   
-💻 Below is the gif showing the functionality of the application:
+💻 Below is the gif showing the functionality of the application: 
+
+💻 A continuación se muestra el gif que muestra la funcionalidad de la aplicación:
   
-![DB Setup and Start](./gif/video.gif)
+![DB Setup and Start](./gif/shortvideo.gif)
 
 ![GET All](./gif/GET_ALL.gif)
 
@@ -34,48 +38,39 @@
 
 ![POST PUT DELETE Categories](./gif/Others.gif)
   
-🎥 The full movie file showing functionality of the application can be found in the gif directory.
+🎥 The `shortvideo` file showing functionality of the application can be found in the gif directory. 
 
+🎥  El archivo `shortvideo` que muestra la funcionalidad de la aplicación se puede encontrar en el directorio gif. o en este enlace.
+
+[THE_VIDEO]https://drive.google.com/file/d/1NVKy5IuGrmhdkICr4UGwr8KW-xQ89b0t/view?usp=sharing
   
-## User Story
+# User Story
   
 ```
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
+
+COMO gerente de una empresa minorista de Internet
+QUIERO un back-end para mi sitio web de comercio electrónico que utilice las últimas tecnologías PARA QUE mi empresa pueda competir con otras empresas de comercio electrónico
 ```
   
-## Acceptance Criteria
-  
-``` 
-GIVEN a functional Express.js API
-WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
-THEN I am able to connect to a database using Sequelize
-WHEN I enter schema and seed commands
-THEN a development database is created and is seeded with test data
-WHEN I enter the command to invoke the application
-THEN my server is started and the Sequelize models are synced to the MySQL database
-WHEN I open API GET routes in Insomnia for categories, products, or tags
-THEN the data for each of these routes is displayed in a formatted JSON
-WHEN I test API POST, PUT, and DELETE routes in Insomnia
-THEN I am able to successfully create, update, and delete data in my database
-```
-  
-## Table of Contents
+# Table of Contents
 - [Description](#description)
 - [User Story](#user-story)
-- [Acceptance Criteria](#acceptance-criteria)
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Testing](#testing)
+- [License](#license)
 - [Contributing](#contributing)
 - [Questions](#questions)
 
-## Installation
+# Installation
 💾   
   
 `npm init`
+
+this be install:
 
 `npm install mysql2`
 
@@ -83,7 +78,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 `npm install dotenv`
   
-## Usage
+# Usage
 💻   
   
 Run the following command at the root of your project and answer the prompted questions:
@@ -100,11 +95,21 @@ Enter PW when promted
   
 `npm start`
 
-## Testing
-✏️ No testing is currently set up
+# License
+This project is under ![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg).
 
-## Contributing
-LRC - [Luis Cartaya](https://github.com/cartaya1)
+# Contribution
+[Luis Cartaya, ](https://github.com/cartaya1)
+Pull requests are always welcome!
 
-## Questions
-✉️ Contact me with any questions: [email](mailto:cartaya1@msn.com) , [GitHub](https://github.com/cartaya1)<br />
+# Questions
+If you have any questions about the repo, 
+[open an issue](https://github.com/cartaya1/Employee-Tracker/issues) 
+or contact me directly at [Email](mailto:cartaya1@msn.com).
+
+# GitHub
+
+![Image of me](https://avatars.githubusercontent.com/u/85638758?v=4)
+- Luis Cartaya
+- [GitHub Profile](https://github.com/cartaya1)
+- Cartaya's House Inc.
